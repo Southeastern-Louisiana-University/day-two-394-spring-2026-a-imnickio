@@ -1,0 +1,3 @@
+go-bulky size: 561.29 MB
+go-slim size: 16.58 MB
+3506.25% more space efficient!
